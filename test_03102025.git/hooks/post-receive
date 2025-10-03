@@ -1,0 +1,3 @@
+#!/bin/bash
+SECONDARY_REPO="git@github.com:Narendrababu123456/migrate_test_03102025.git"
+git push --mirror $SECONDARY_REPO
